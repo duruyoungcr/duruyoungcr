@@ -3,6 +3,10 @@
 
 ### Hey there ! 👋 
 
+
+## Socials
+
+![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
 <!--
 **duruyoungcr/duruyoungcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
