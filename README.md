@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning Laravel
 
-- 👯 I’m looking to collaborate on interesting projects
+- 👯 I’m looking to collaborate on interesting projects and contribute to open source projects.
 
-- 🤔 I’m looking for help with open source projects
+- 🤔 I’m looking for an amazing team to join and build amazing things. 
 
 - 📫 How to reach me: duruyoungcr@gmail.com
 
