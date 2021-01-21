@@ -1,12 +1,9 @@
 [![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png "Header")](https://rayced.com/)
 
 
-### Hey there ! 👋 
+### Hey there ! 👋 I am Raymond
 
-
-## Socials
-
-![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
+##### Welcome to my github profile.
 
 - 🔭 I’m currently working on [ginjaa.com](ginjaa.com)
 
@@ -21,6 +18,10 @@
 - 😄 Pronouns: He and He alone
 
 - ⚡ Fun fact: I am no fun
+
+## Socials
+
+![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
 <!--
 **duruyoungcr/duruyoungcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
