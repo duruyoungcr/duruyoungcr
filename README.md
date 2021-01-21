@@ -3,7 +3,7 @@
 
 # Hey there ! 👋 I am Raymond
 
-### Welcome to my github profile.
+## Welcome to my github profile.
 
 - 🔭 I’m currently working on [ginjaa.com](ginjaa.com)
 
