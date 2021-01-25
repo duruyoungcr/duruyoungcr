@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: duruyoungcr@gmail.com
 
-- 😄 Pronouns: He and He alone
+- 😄 Pronouns: He/Him alone
 
 - ⚡ Fun fact: I am no fun
 
