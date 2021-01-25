@@ -19,6 +19,14 @@
 
 - ⚡ Fun fact: I am no fun
 
+### 2021 Goals 
+
+- Write more articles
+- Build more connections
+- Contribute to open source
+- Speak in a conference
+
+
 ## Socials
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
