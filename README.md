@@ -21,10 +21,12 @@
 
 ### 2021 Goals 
 
-- Write more articles
+- Write more technical articles
 - Build more connections
 - Contribute to open source
 - Speak in a conference
+- Build a new portfolio
+
 
 
 ## Socials
