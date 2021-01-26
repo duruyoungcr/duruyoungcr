@@ -24,7 +24,7 @@
 - Write more technical articles
 - Build more connections
 - Contribute to open source
-- Speak in a conference
+- Speak in a atleast one tech conference
 - Build a new portfolio
 
 
