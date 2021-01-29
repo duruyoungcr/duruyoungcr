@@ -3,7 +3,7 @@
 
 # Hey there ! 👋 I am Raymond
 
-## Welcome to my github profile.
+## Welcome to my github profile
 
 - 🔭 I’m currently working on [ginjaa.com](ginjaa.com)
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: I am no fun
 
-### 2021 Goals 
+## 2021 Goals 
 
 - Write more technical articles
 - Build more connections
