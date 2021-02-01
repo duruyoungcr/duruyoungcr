@@ -1,5 +1,6 @@
-[![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png "Header")](https://rayced.com/)
+[![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png#full "Header")](https://rayced.com/)
 
+<img src="https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png" width:"100vw"/>
 
 # Hey there ! 👋 I am Raymond
 
