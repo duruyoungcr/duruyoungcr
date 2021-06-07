@@ -4,7 +4,7 @@
 
 ## Welcome to my github profile
 
-- 🔭 I’m currently working on [ginjaa.com](ginjaa.com)
+- 🔭 I’m currently working on [ginjaa.com](ginjaa.com) version 2
 
 - 🌱 I’m currently learning Laravel
 
