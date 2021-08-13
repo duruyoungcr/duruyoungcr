@@ -1,8 +1,8 @@
 <!-- [![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png#full "Header")](https://rayced.com/)
  -->
-# Hey there ! 👋 I am Raymond
+# Hey there ! 👋 I am Raymond.
 
-## Welcome to my github profile
+## Welcome to my github profile.
 
 - 🔭 I’m currently working on [ginjaa.com](ginjaa.com) version 2 using Next JS
 
