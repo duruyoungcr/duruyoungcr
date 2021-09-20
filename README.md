@@ -1,12 +1,12 @@
 <!-- [![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png#full "Header")](https://rayced.com/)
  -->
-# Hey there ! 👋 I am Raymond.
+# Hey! 👋, I am Raymond.
 
 ## Welcome to my github profile.
 
 - 🔭 I’m currently working on [ginjaa.com](ginjaa.com) version 2 using Next JS
 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React Native
 
 - 👯 I’m looking to collaborate on interesting projects and contribute to open source projects.
 
