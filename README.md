@@ -4,8 +4,6 @@
 
 ## Welcome to my github profile.
 
-- 🔭 I’m currently working on [ginjaa.com](ginjaa.com) version 2 using Next JS
-
 - 🌱 I’m currently learning React Native
 
 - 👯 I’m looking to collaborate on interesting projects and contribute to open source projects.
