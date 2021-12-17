@@ -30,3 +30,21 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
 
+<div>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duruyoungcr&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
+
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=duruyoungcr&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=duruyoungcr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
+/>
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1871?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+![Profile views](https://gpvc.arturio.dev/duruyoungcr)
+
