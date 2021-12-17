@@ -1,4 +1,4 @@
-<!-- [![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png#full "Header")](https://rayced.com/)
+<!-- [![Header](https://github.com/duruyoungcr/duruyoungcr/blob/main/readme_header_fixed.png#full "Header")](https://dycr.dev/)
  -->
 # Hey! 👋, I am Raymond.
 
@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for an amazing team to join and build amazing things. 
 
-- 📫 How to reach me: duruyoungcr@gmail.com
+- 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), || LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), || Mail: duruyoungcr@gmail.com
 
 - 😄 Pronouns: He/Him alone
 
@@ -29,6 +29,9 @@
 ## Socials
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
+
+
+## Stats
 
 <div>
   <a href="/" align="left">
