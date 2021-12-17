@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for an amazing team to join and build amazing things. 
 
-- 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), || LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), || Mail: duruyoungcr@gmail.com
+- 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), - LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), - Mail: duruyoungcr@gmail.com
 
 - 😄 Pronouns: He/Him alone
 
