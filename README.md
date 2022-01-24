@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: I am no fun
 
-## 2021 Goals 
+## 2022 Goals 
 
 - Write more technical articles
 - Build more connections
