@@ -2,7 +2,7 @@
  -->
 # Hey! 👋, I am Raymond.
 
-## Welcome to my github profile.
+## Welcome to my Github profile.
 
 - 🌱 I’m currently learning React Native
 
