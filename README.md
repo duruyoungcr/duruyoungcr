@@ -4,8 +4,6 @@
 
 ## Welcome to my Github profile.
 
-- 🌱 I’m currently learning React Native
-
 - 👯 I’m looking to collaborate on interesting projects and contribute to open source projects.
 
 - 🤔 I’m looking for an amazing team to join and build amazing things. 
