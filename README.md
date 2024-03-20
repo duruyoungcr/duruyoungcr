@@ -26,6 +26,3 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/duruyoungcr?label=Follow%20me&style=social)
 
-
-![Profile views](https://gpvc.arturio.dev/duruyoungcr)
-
