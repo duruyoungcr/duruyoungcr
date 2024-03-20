@@ -8,13 +8,13 @@
 
 - 🤔 I’m looking for an amazing team to join and build amazing things. 
 
-- 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), - LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), - Mail: duruyoungcr@gmail.com
+- 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), - LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), - Mail: duruyoungrc@gmail.com
 
 - 😄 Pronouns: He/Him alone
 
 - ⚡ Fun fact: I am no fun
 
-## 2023 Goals 
+## 2024 Goals 
 
 - Write more technical articles
 - Build more connections
