@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: Twitter: [@duruyoungcr](https://twitter.com/duruyoungcr), - LinkedIn: [Duru-young Raymond](https://www.linkedin.com/in/duruyoungcr), - Mail: duruyoungrc@gmail.com
 
-- 😄 Pronouns: He/Him alone
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I am no fun
 
